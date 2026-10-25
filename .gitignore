@@ -1,0 +1,10 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+
+# Learned songs: separated vocals, cached lyrics, transposed stems and your takes (large, copyrighted, personal)
+songs/
+
+# Per-machine audio devices and latency, plus your LRCLIB contact
+config.json
